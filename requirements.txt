@@ -1,0 +1,14 @@
+# Core numerical and visualization libraries
+numpy
+matplotlib
+
+# Deep learning framework (Keras is provided as a TensorFlow dependency)
+tensorflow
+
+# Data handling and evaluation
+pandas
+scikit-learn
+
+# 3D surface extraction and visualization
+scikit-image
+pyvista
