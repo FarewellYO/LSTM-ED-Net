@@ -43,7 +43,7 @@ The codes were developed and tested using Python 3.10 in PyCharm on Windows.
 
 The required Python packages are listed in `requirements.txt`.
 
-Install all dependencies using:
+To run the scripts in PyCharm, configure a Python 3.10 interpreter and install all required dependencies using the following command in the PyCharm Terminal:
 
 ```bash
 python -m pip install -r requirements.txt
