@@ -3,8 +3,15 @@
 # Numerical computation
 numpy==1.26.0
 
+# Data processing
+pandas
+
 # Data visualization
 matplotlib==3.10.9
 
+# Model evaluation
+scikit-learn
+
 # Deep learning framework
 tensorflow==2.21.0
+
