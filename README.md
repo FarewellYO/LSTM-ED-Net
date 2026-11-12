@@ -39,7 +39,7 @@ LSTM-ED-Net/
 
 ## 3. Environment and Dependencies
 
-The codes were developed and tested using Python 3.10.
+The codes were developed and tested using Python 3.10 in PyCharm on Windows.
 
 The required Python packages are listed in `requirements.txt`.
 
