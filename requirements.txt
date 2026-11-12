@@ -1,14 +1,10 @@
-# Core numerical and visualization libraries
-numpy
-matplotlib
+# Python version: 3.10
 
-# Deep learning framework (Keras is provided as a TensorFlow dependency)
-tensorflow
+# Numerical computation
+numpy==1.26.0
 
-# Data handling and evaluation
-pandas
-scikit-learn
+# Data visualization
+matplotlib==3.10.9
 
-# 3D surface extraction and visualization
-scikit-image
-pyvista
+# Deep learning framework
+tensorflow==2.21.0
